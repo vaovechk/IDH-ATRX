@@ -1,38 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T02:53:40.684Z" agent="5.0 (Windows)" etag="zGhSdMVNjOd7Nr8xV5qe" version="20.2.7" type="github">
-  <diagram id="vwa7bD_7T1ZnTMRtppo8" name="Page-1">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-10-19T22:06:57.689Z" agent="5.0 (Windows)" etag="dTD2193HYPxnvBrP1Ybl" version="20.4.2" type="github" pages="2">
+  <diagram id="vwa7bD_7T1ZnTMRtppo8" name="2x2">
+    <mxGraphModel dx="868" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bmbeiZKuWXw20TROkamt-16" value="IDH (isocitrate dehydrogenase)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bmbeiZKuWXw20TROkamt-16" value="IDH (isocitrate dehydrogenase)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="120" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bmbeiZKuWXw20TROkamt-17" value="&lt;div&gt;Mutant&lt;/div&gt;&lt;div&gt;(cytoplasmic staining present)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bmbeiZKuWXw20TROkamt-17" value="&lt;div&gt;Mutant&lt;/div&gt;&lt;div&gt;(cytoplasmic staining present)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="160" width="189.09" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="bmbeiZKuWXw20TROkamt-18" value="&lt;div&gt;Wild type&lt;/div&gt;&lt;div&gt;(no staining)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bmbeiZKuWXw20TROkamt-18" value="&lt;div&gt;Wild type&lt;/div&gt;&lt;div&gt;(no staining)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400.91" y="160" width="189.09" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="bmbeiZKuWXw20TROkamt-19" value="IDH-mutant astrocytoma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bmbeiZKuWXw20TROkamt-19" value="IDH-mutant astrocytoma" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="205" width="189.09" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="bmbeiZKuWXw20TROkamt-21" value="Astrocytoma with alternate mutations (eg, in histones)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bmbeiZKuWXw20TROkamt-21" value="Astrocytoma with alternate mutations (eg, in histones)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400.91" y="205" width="189.09" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="bmbeiZKuWXw20TROkamt-23" value="&lt;div&gt;Mutant&lt;/div&gt;&lt;div&gt;(no staining)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="bmbeiZKuWXw20TROkamt-23" value="&lt;div&gt;Mutant&lt;/div&gt;&lt;div&gt;(no staining)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="205" width="40" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="bmbeiZKuWXw20TROkamt-24" value="Wild type (nuclear staining present)" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="bmbeiZKuWXw20TROkamt-24" value="Wild type (nuclear staining present)" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="340" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bmbeiZKuWXw20TROkamt-25" value="&lt;div&gt;IDH-mutant oligodendroglioma&lt;/div&gt;&lt;div&gt;(test for 1p/19q loss)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bmbeiZKuWXw20TROkamt-25" value="&lt;div&gt;IDH-mutant oligodendroglioma&lt;/div&gt;&lt;div&gt;(test for 1p/19q loss)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="340" width="189.09" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bmbeiZKuWXw20TROkamt-26" value="Glioblastoma multiforme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bmbeiZKuWXw20TROkamt-26" value="Glioblastoma multiforme" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400.91" y="340" width="189.09" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bmbeiZKuWXw20TROkamt-27" value="&lt;div&gt;ATRX (alpha-thalassemia/mental retardation syndrome X-linked)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="bmbeiZKuWXw20TROkamt-27" value="&lt;div&gt;ATRX (alpha-thalassemia/mental retardation syndrome X-linked)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="205" width="40" height="254.99999999999997" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="j45bVKJsYDluY8ySK248" name="Rasha">
+    <mxGraphModel dx="868" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GVXksBxHV6aPyUx0arUi-1" value="Glioma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GVXksBxHV6aPyUx0arUi-2" value="IDH + ATRX + p53" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GVXksBxHV6aPyUx0arUi-3" value="&lt;div&gt;IDH-mutated&lt;/div&gt;&lt;div&gt;(hence, not GBM)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVXksBxHV6aPyUx0arUi-4" value="Astrocytoma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_e-oITrv8mua2T2I05v0-5" value="Codeletion abs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVXksBxHV6aPyUx0arUi-5" target="_e-oITrv8mua2T2I05v0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_e-oITrv8mua2T2I05v0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVXksBxHV6aPyUx0arUi-5" target="_e-oITrv8mua2T2I05v0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_e-oITrv8mua2T2I05v0-7" value="Coldeletion present" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_e-oITrv8mua2T2I05v0-6">
+          <mxGeometry x="0.2308" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GVXksBxHV6aPyUx0arUi-5" value="&lt;div&gt;Oligodendroglioma&lt;/div&gt;&lt;div&gt;signature: 1p/19q codeletion&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_e-oITrv8mua2T2I05v0-1" value="ATRX-mutated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_e-oITrv8mua2T2I05v0-2" value="ATRX-wt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_e-oITrv8mua2T2I05v0-3" value="Astrocytoma with poor prognosis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_e-oITrv8mua2T2I05v0-4" value="Oligodendroglioma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
